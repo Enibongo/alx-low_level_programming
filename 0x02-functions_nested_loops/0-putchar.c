@@ -14,7 +14,7 @@ int main(void)
 		putchar(*sh);
 		sh++;
 	}
-	_putchar('\n');
+	putchar('\n');
 
 	return (0);
 }
