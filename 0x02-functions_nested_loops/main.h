@@ -1,7 +1,5 @@
 int _islower(int c);
-int putchar (int character);
+void print_alphabet_x10(void);
+void print_alphabet(void);
 int putchar(int char);
-putchar(character);
-putchar(character_variable);
 int putchar(const char *string);
-int putchar(int character);
